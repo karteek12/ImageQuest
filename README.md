@@ -40,3 +40,8 @@ This is a simple **Image Search Application** built using HTML, CSS, JavaScript,
 ├── style.css          # Styles for the application
 ├── script.js          # JavaScript logic for fetching images and handling pagination
 └── README.md          # Project documentation
+
+Future Enhancements
+1.Add more filter options (e.g., sort by date or popularity).
+2.nclude image download functionality.
+3.Implement a user login system to save favorite searches.
