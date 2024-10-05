@@ -1,4 +1,4 @@
-# Image Search Application
+# ImageQuest
 
 This is a simple **Image Search Application** built using HTML, CSS, JavaScript, and the Unsplash API. Users can enter a keyword or query, and the application will display related images fetched from the Unsplash API.
 
