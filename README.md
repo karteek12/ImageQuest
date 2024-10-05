@@ -43,5 +43,5 @@ This is a simple **Image Search Application** built using HTML, CSS, JavaScript,
 
 ## Future Enhancements
 1.Add more filter options (e.g., sort by date or popularity).
-2.nclude image download functionality.
+2.include image download functionality.
 3.Implement a user login system to save favorite searches.
